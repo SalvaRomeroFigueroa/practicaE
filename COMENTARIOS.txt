@@ -1,0 +1,1 @@
+10: Al ejecutar git status, los archivos y directorios generados anteriormente aparecen como untracked, ya que no fueron añadidos aun al commit

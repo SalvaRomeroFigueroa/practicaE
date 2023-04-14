@@ -1,0 +1,4 @@
+Nombre: Salvador
+Apellido: Romero Figueroa
+DNI: 44773882
+Genero: Hombre
