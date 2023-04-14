@@ -1,1 +1,6 @@
 10: Al ejecutar git status, los archivos y directorios generados anteriormente aparecen como untracked, ya que no fueron añadidos aun al commit
+12: Al NO haber hecho un commit antes de modificar los archivos de tecto en los directorios, el sistema no sabe si se modificaron o no los archivos
+15: Tras haber añadido los archivos al stacge, el sistema los reconoce como nuevos, pero al haber modificado el archivo datos.txt, al vover a ejecutar git status, el sistema reconoce que el archivo sufrió cambios que no fueron subidos al stage
+18: Tras haber realizado un commit, al ejecutar git log el sistema muestra nombre de usuario y correo electrónico del usuario que subió esa version del proyecto, junto con fecha y hora, y un comentario que agregó el usuario
+21: al volver a ejecutar git log, el sistema señala que los cambios estan guardados tanto en el repositorio local como en le remoto
+24: Al ejecutar un git status, el sistema, al estar al tanto solo del repositorio local, no detecta que se hayan creado o modificado archivos
